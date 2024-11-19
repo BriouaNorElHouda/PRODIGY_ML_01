@@ -4,4 +4,6 @@ Implement a linear regression model to predict the prices of houses basd on thei
 
 R² = 87
 
-datase : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
+datase : 
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
